@@ -1,0 +1,676 @@
+2021-11-03 14:37:54.087 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 14:37:55.861 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 14:37:59.043 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 14:37:59.824 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 14:38:08.822 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 14:38:09.569 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 14:42:49.567 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 14:42:49.570 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 14:42:49.571 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 14:42:49.777 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 14:42:50.776 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 14:43:22.867 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 14:43:22.867 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 14:43:22.868 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 14:43:22.892 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 14:43:23.708 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 14:43:28.081 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 14:43:28.081 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 14:43:28.081 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 14:43:28.088 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 14:43:28.970 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:00:32.395 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:00:32.399 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 15:00:32.399 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:00:32.611 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 15:00:33.729 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:00:33.729 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 15:00:35.682 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 15:00:35.726 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:00:35.743 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b105dbce5f2a53d8cd124aa1170dbef4)] -> css selector: a.brand]
+2021-11-03 15:00:35.815 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:00:36.488 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b105dbce5f2a53d8cd124aa1170dbef4)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:00:36.516 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:00:36.539 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b105dbce5f2a53d8cd124aa1170dbef4)] -> css selector: a.account-icon]
+2021-11-03 15:00:36.864 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:00:36.865 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 15:00:36.866 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:00:36.871 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:00:36.872 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 15:00:36.872 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:00:36.884 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 15:00:37.686 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:00:37.687 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 15:00:38.948 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 15:00:38.948 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:00:39.125 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (fc7ff2e701b222e92a0681b03b696dd0)] -> css selector: a.brand]
+2021-11-03 15:00:39.426 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:00:40.086 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (fc7ff2e701b222e92a0681b03b696dd0)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:00:40.117 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:00:40.127 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (fc7ff2e701b222e92a0681b03b696dd0)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:00:40.193 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (fc7ff2e701b222e92a0681b03b696dd0)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:00:40.193 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:00:40.211 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (fc7ff2e701b222e92a0681b03b696dd0)] -> css selector: a.account-icon]
+2021-11-03 15:00:41.565 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (fc7ff2e701b222e92a0681b03b696dd0)] -> css selector: a.account-icon]
+2021-11-03 15:00:41.568 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:00:41.606 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (fc7ff2e701b222e92a0681b03b696dd0)] -> css selector: div.login-heading]
+2021-11-03 15:00:42.070 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:00:42.070 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 15:00:42.070 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:00:42.074 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:00:42.074 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 15:00:42.074 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:00:42.086 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 15:00:42.902 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:00:42.902 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 15:00:44.330 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 15:00:44.331 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:00:44.682 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (a6c99a63a24c36ce27eeec6cb03ee635)] -> css selector: a.brand]
+2021-11-03 15:00:44.946 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:10:31.301 [main] INFO  Main - This is info message...
+2021-11-03 15:10:31.304 [main] WARN  Main - This is warn message...
+2021-11-03 15:10:31.304 [main] FATAL Main - This is fatal message...
+2021-11-03 15:12:19.556 [main] FATAL Main - This is fatal message...
+2021-11-03 15:32:28.448 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:32:28.451 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 15:32:28.451 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:32:28.693 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 15:32:29.785 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:32:29.785 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 15:32:31.452 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 15:32:31.486 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:31.508 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (2c07e2dff5d4234f38c796b1615dbe7a)] -> css selector: a.brand]
+2021-11-03 15:32:31.559 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:32.365 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (2c07e2dff5d4234f38c796b1615dbe7a)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:32:32.422 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:32.436 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (2c07e2dff5d4234f38c796b1615dbe7a)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:32:32.548 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (2c07e2dff5d4234f38c796b1615dbe7a)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:32:32.549 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:32.571 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (2c07e2dff5d4234f38c796b1615dbe7a)] -> css selector: a.account-icon]
+2021-11-03 15:32:32.735 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:32:32.735 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 15:32:32.735 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:32:32.745 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:32:32.746 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 15:32:32.746 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:32:32.759 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 15:32:33.562 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:32:33.562 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 15:32:35.305 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 15:32:35.307 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:35.368 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b11a7732b50b5fad1b0d47328d9dc7bd)] -> css selector: a.brand]
+2021-11-03 15:32:35.417 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:36.213 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b11a7732b50b5fad1b0d47328d9dc7bd)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:32:36.284 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:36.301 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b11a7732b50b5fad1b0d47328d9dc7bd)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:32:36.369 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (b11a7732b50b5fad1b0d47328d9dc7bd)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:32:36.369 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:36.384 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b11a7732b50b5fad1b0d47328d9dc7bd)] -> css selector: a.account-icon]
+2021-11-03 15:32:37.768 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (b11a7732b50b5fad1b0d47328d9dc7bd)] -> css selector: a.account-icon]
+2021-11-03 15:32:37.770 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:38.063 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b11a7732b50b5fad1b0d47328d9dc7bd)] -> css selector: div.login-heading]
+2021-11-03 15:32:38.316 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:32:38.316 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 15:32:38.316 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:32:38.322 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:32:38.322 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 15:32:38.322 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:32:38.334 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 15:32:39.145 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:32:39.145 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 15:32:40.922 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 15:32:40.925 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:40.988 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b9d964b29acbe324417ca30d4dad2607)] -> css selector: a.brand]
+2021-11-03 15:32:41.015 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:41.813 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b9d964b29acbe324417ca30d4dad2607)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:32:41.883 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:41.899 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b9d964b29acbe324417ca30d4dad2607)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:32:41.989 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (b9d964b29acbe324417ca30d4dad2607)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:32:41.990 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:42.010 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b9d964b29acbe324417ca30d4dad2607)] -> css selector: a.account-icon]
+2021-11-03 15:32:43.347 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (b9d964b29acbe324417ca30d4dad2607)] -> css selector: a.account-icon]
+2021-11-03 15:32:43.349 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:43.392 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b9d964b29acbe324417ca30d4dad2607)] -> css selector: div.login-heading]
+2021-11-03 15:32:43.652 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:43.784 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b9d964b29acbe324417ca30d4dad2607)] -> css selector: input#login-form-email]
+2021-11-03 15:32:43.983 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:44.148 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b9d964b29acbe324417ca30d4dad2607)] -> css selector: input#login-form-password]
+2021-11-03 15:32:44.243 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:32:44.259 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b9d964b29acbe324417ca30d4dad2607)] -> css selector: div.login-submit-btn]
+2021-11-03 15:32:44.360 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (b9d964b29acbe324417ca30d4dad2607)] -> css selector: div.login-submit-btn]
+2021-11-03 15:32:44.362 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:38:32.820 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:38:32.822 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 15:38:32.822 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:38:33.477 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 15:38:34.513 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:38:34.514 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 15:38:36.293 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 15:38:36.333 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:38:36.376 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (97f234ec25e2a7bbb83d5e821e7b6689)] -> css selector: a.brand]
+2021-11-03 15:38:36.436 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:38:37.206 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (97f234ec25e2a7bbb83d5e821e7b6689)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:38:37.279 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:38:37.299 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (97f234ec25e2a7bbb83d5e821e7b6689)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:38:37.371 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (97f234ec25e2a7bbb83d5e821e7b6689)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:38:37.374 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:38:37.391 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (97f234ec25e2a7bbb83d5e821e7b6689)] -> css selector: a.account-icon]
+2021-11-03 15:38:37.565 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:38:37.566 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 15:38:37.566 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:38:37.576 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:38:37.576 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 15:38:37.576 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:38:37.589 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 15:38:38.374 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:38:38.375 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 15:38:41.414 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 15:38:41.415 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:39:00.885 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:39:00.886 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 15:39:00.886 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:39:00.899 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 15:39:01.742 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:39:01.742 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 15:39:03.434 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 15:39:03.438 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:39:03.485 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (bd115dd1d4bb76f0595125512f0bc489)] -> css selector: a.brand]
+2021-11-03 15:39:03.509 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:39:04.303 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (bd115dd1d4bb76f0595125512f0bc489)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:39:04.322 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:39:04.334 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (bd115dd1d4bb76f0595125512f0bc489)] -> css selector: a.account-icon]
+2021-11-03 15:39:04.879 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (bd115dd1d4bb76f0595125512f0bc489)] -> css selector: a.account-icon]
+2021-11-03 15:39:04.882 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:39:05.323 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (bd115dd1d4bb76f0595125512f0bc489)] -> css selector: div.login-heading]
+2021-11-03 15:39:05.436 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:39:05.818 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (bd115dd1d4bb76f0595125512f0bc489)] -> css selector: input#login-form-email]
+2021-11-03 15:39:06.080 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:39:06.254 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (bd115dd1d4bb76f0595125512f0bc489)] -> css selector: input#login-form-password]
+2021-11-03 15:39:06.340 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:39:06.354 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (bd115dd1d4bb76f0595125512f0bc489)] -> css selector: div.login-submit-btn]
+2021-11-03 15:39:06.452 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (bd115dd1d4bb76f0595125512f0bc489)] -> css selector: div.login-submit-btn]
+2021-11-03 15:39:06.455 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:40:53.381 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:40:53.383 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 15:40:53.383 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:40:53.598 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 15:40:54.606 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:40:54.606 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 15:40:56.297 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 15:40:56.342 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:40:56.362 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (1716901e3fac16b1642cfe1244488694)] -> css selector: a.brand]
+2021-11-03 15:40:56.447 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:40:57.270 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (1716901e3fac16b1642cfe1244488694)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:40:57.311 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:40:57.322 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (1716901e3fac16b1642cfe1244488694)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:40:57.400 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (1716901e3fac16b1642cfe1244488694)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:40:57.402 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:40:57.418 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (1716901e3fac16b1642cfe1244488694)] -> css selector: a.account-icon]
+2021-11-03 15:40:57.577 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:40:57.577 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 15:40:57.577 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:40:57.589 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:40:57.589 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 15:40:57.590 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:40:57.599 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 15:40:58.371 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:40:58.372 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 15:41:01.006 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 15:41:01.007 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:41:01.071 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (f06114db203379deda89e40e6279a668)] -> css selector: a.brand]
+2021-11-03 15:41:01.109 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:41:01.954 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (f06114db203379deda89e40e6279a668)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:41:01.985 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:41:01.998 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (f06114db203379deda89e40e6279a668)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:41:02.060 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (f06114db203379deda89e40e6279a668)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:41:02.063 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:41:02.074 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (f06114db203379deda89e40e6279a668)] -> css selector: a.account-icon]
+2021-11-03 15:41:03.353 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (f06114db203379deda89e40e6279a668)] -> css selector: a.account-icon]
+2021-11-03 15:41:03.355 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:41:03.571 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (f06114db203379deda89e40e6279a668)] -> css selector: div.login-heading]
+2021-11-03 15:41:03.820 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:41:03.820 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 15:41:03.820 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:41:03.825 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:41:03.825 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 15:41:03.825 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:41:03.837 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 15:41:04.635 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:41:04.635 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 15:41:06.543 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 15:41:06.547 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:41:06.572 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b40a246d887b85dd7873a95ac7299710)] -> css selector: a.brand]
+2021-11-03 15:41:06.588 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:41:07.399 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b40a246d887b85dd7873a95ac7299710)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:41:07.437 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:41:07.449 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b40a246d887b85dd7873a95ac7299710)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:41:07.519 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (b40a246d887b85dd7873a95ac7299710)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:41:07.521 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:41:07.535 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b40a246d887b85dd7873a95ac7299710)] -> css selector: a.account-icon]
+2021-11-03 15:41:09.088 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (b40a246d887b85dd7873a95ac7299710)] -> css selector: a.account-icon]
+2021-11-03 15:41:09.092 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:41:09.583 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b40a246d887b85dd7873a95ac7299710)] -> css selector: div.login-heading]
+2021-11-03 15:41:09.643 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:41:09.863 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b40a246d887b85dd7873a95ac7299710)] -> css selector: input#login-form-email]
+2021-11-03 15:41:09.952 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:41:09.970 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b40a246d887b85dd7873a95ac7299710)] -> css selector: input#login-form-password]
+2021-11-03 15:41:10.058 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:41:10.069 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b40a246d887b85dd7873a95ac7299710)] -> css selector: div.login-submit-btn]
+2021-11-03 15:41:10.175 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (b40a246d887b85dd7873a95ac7299710)] -> css selector: div.login-submit-btn]
+2021-11-03 15:41:10.177 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:42:32.878 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:42:32.881 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 15:42:32.882 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:42:33.104 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 15:42:34.169 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:42:34.169 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 15:42:36.115 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 15:42:36.160 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:42:36.302 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (40164c3f1aa8431ff1948070c41161a9)] -> css selector: a.brand]
+2021-11-03 15:42:36.596 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:42:37.257 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (40164c3f1aa8431ff1948070c41161a9)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:42:37.286 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:42:37.305 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (40164c3f1aa8431ff1948070c41161a9)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:42:37.374 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (40164c3f1aa8431ff1948070c41161a9)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:42:37.375 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:42:37.392 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (40164c3f1aa8431ff1948070c41161a9)] -> css selector: a.account-icon]
+2021-11-03 15:42:37.559 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:42:37.559 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 15:42:37.559 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:42:37.570 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:42:37.570 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 15:42:37.570 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:42:37.578 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 15:42:38.397 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:42:38.397 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 15:42:40.050 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 15:42:40.052 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:42:40.107 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (ff7f413346a59988bd8d9993f3736fc7)] -> css selector: a.brand]
+2021-11-03 15:42:40.201 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:43:10.258 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:43:10.258 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 15:43:10.258 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 15:43:10.265 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 15:43:11.038 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 15:43:11.038 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 15:43:12.845 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 15:43:12.847 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:43:12.877 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (bf506447351df85192271240a500e18d)] -> css selector: a.brand]
+2021-11-03 15:43:12.913 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:43:13.789 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (bf506447351df85192271240a500e18d)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:43:13.843 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:43:13.854 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (bf506447351df85192271240a500e18d)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:43:13.924 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (bf506447351df85192271240a500e18d)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 15:43:13.926 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:43:13.940 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (bf506447351df85192271240a500e18d)] -> css selector: a.account-icon]
+2021-11-03 15:43:15.267 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (bf506447351df85192271240a500e18d)] -> css selector: a.account-icon]
+2021-11-03 15:43:15.269 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:43:15.291 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (bf506447351df85192271240a500e18d)] -> css selector: div.login-heading]
+2021-11-03 15:43:15.637 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:43:15.838 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (bf506447351df85192271240a500e18d)] -> css selector: input#login-form-email]
+2021-11-03 15:43:16.084 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:43:16.101 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (bf506447351df85192271240a500e18d)] -> css selector: input#login-form-password]
+2021-11-03 15:43:16.198 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 15:43:16.210 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (bf506447351df85192271240a500e18d)] -> css selector: div.login-submit-btn]
+2021-11-03 15:43:16.301 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (bf506447351df85192271240a500e18d)] -> css selector: div.login-submit-btn]
+2021-11-03 15:43:16.303 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:21.324 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 18:08:21.327 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 18:08:21.327 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 18:08:22.277 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 18:08:23.383 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 18:08:23.383 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 18:08:25.083 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 18:08:25.127 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:25.163 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (9cb369b41b513749307817f9925d77ee)] -> css selector: a.brand]
+2021-11-03 18:08:25.215 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:25.968 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (9cb369b41b513749307817f9925d77ee)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 18:08:26.018 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:26.031 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (9cb369b41b513749307817f9925d77ee)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 18:08:26.101 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (9cb369b41b513749307817f9925d77ee)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 18:08:26.103 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:26.120 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (9cb369b41b513749307817f9925d77ee)] -> css selector: a.account-icon]
+2021-11-03 18:08:26.301 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 18:08:26.302 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 18:08:26.302 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 18:08:26.315 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 18:08:26.315 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 18:08:26.315 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 18:08:26.328 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 18:08:27.115 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 18:08:27.115 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 18:08:29.230 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 18:08:29.231 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:29.295 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (c6b1f1efc852fd63f319a5614ec62f1b)] -> css selector: a.brand]
+2021-11-03 18:08:29.320 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:30.046 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (c6b1f1efc852fd63f319a5614ec62f1b)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 18:08:30.108 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:30.165 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (c6b1f1efc852fd63f319a5614ec62f1b)] -> css selector: a.account-icon]
+2021-11-03 18:08:31.282 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 18:08:31.282 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 18:08:31.282 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 18:08:31.291 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 18:08:32.049 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 18:08:32.049 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 18:08:33.586 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 18:08:33.588 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:33.643 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (ff39110632e1e1d730abcf7b12805b68)] -> css selector: a.brand]
+2021-11-03 18:08:33.718 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:34.543 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (ff39110632e1e1d730abcf7b12805b68)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 18:08:34.621 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:34.641 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (ff39110632e1e1d730abcf7b12805b68)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 18:08:34.713 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (ff39110632e1e1d730abcf7b12805b68)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 18:08:34.714 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:34.729 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (ff39110632e1e1d730abcf7b12805b68)] -> css selector: a.account-icon]
+2021-11-03 18:08:36.050 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (ff39110632e1e1d730abcf7b12805b68)] -> css selector: a.account-icon]
+2021-11-03 18:08:36.053 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:36.168 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (ff39110632e1e1d730abcf7b12805b68)] -> css selector: div.login-heading]
+2021-11-03 18:08:36.708 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:36.743 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (ff39110632e1e1d730abcf7b12805b68)] -> css selector: input#login-form-email]
+2021-11-03 18:08:37.040 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:37.061 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (ff39110632e1e1d730abcf7b12805b68)] -> css selector: input#login-form-password]
+2021-11-03 18:08:37.137 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 18:08:37.149 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (ff39110632e1e1d730abcf7b12805b68)] -> css selector: div.login-submit-btn]
+2021-11-03 18:08:37.266 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (ff39110632e1e1d730abcf7b12805b68)] -> css selector: div.login-submit-btn]
+2021-11-03 18:08:37.268 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:16:30.269 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:16:30.272 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 20:16:30.272 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:16:30.958 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:16:31.940 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:16:31.940 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:16:33.967 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:16:34.008 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:16:34.025 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (cebc01c60f3fa675debd2aa8b13e41ea)] -> css selector: a.brand]
+2021-11-03 20:16:34.074 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:16:34.777 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (cebc01c60f3fa675debd2aa8b13e41ea)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:16:34.892 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:16:34.932 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (cebc01c60f3fa675debd2aa8b13e41ea)] -> css selector: a.account-icon]
+2021-11-03 20:16:35.133 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:16:35.133 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:16:35.133 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:16:35.145 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:16:35.145 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 20:16:35.145 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:16:35.157 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:16:35.897 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:16:35.898 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:16:37.616 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:16:37.618 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:16:37.662 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (428b72ece698c8698b1212e4a512fdf9)] -> css selector: a.brand]
+2021-11-03 20:16:37.682 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:16:38.418 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (428b72ece698c8698b1212e4a512fdf9)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:16:38.483 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:16:38.495 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (428b72ece698c8698b1212e4a512fdf9)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:16:38.562 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (428b72ece698c8698b1212e4a512fdf9)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:16:38.563 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:16:38.580 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (428b72ece698c8698b1212e4a512fdf9)] -> css selector: a.account-icon]
+2021-11-03 20:16:39.894 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (428b72ece698c8698b1212e4a512fdf9)] -> css selector: a.account-icon]
+2021-11-03 20:16:39.896 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:16:40.177 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (428b72ece698c8698b1212e4a512fdf9)] -> css selector: div.login-heading]
+2021-11-03 20:16:40.430 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:16:40.430 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:16:40.430 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:16:40.440 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:16:40.441 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 20:16:40.441 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:16:40.452 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:16:41.256 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:16:41.256 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:16:42.756 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:16:42.758 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:16:42.813 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b818c3d32ba0ce37b8047286adff0c45)] -> css selector: a.brand]
+2021-11-03 20:16:42.838 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:17:13.064 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:17:13.065 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:17:13.065 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:23:40.869 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:23:40.872 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 20:23:40.872 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:23:41.069 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:23:42.195 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:23:42.195 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:23:43.325 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:23:43.355 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:23:43.527 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (513ee7513b0d2495e9339b0054df33df)] -> css selector: a.brand]
+2021-11-03 20:23:44.060 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:23:44.650 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (513ee7513b0d2495e9339b0054df33df)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:23:44.712 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:23:44.726 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (513ee7513b0d2495e9339b0054df33df)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:23:44.836 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (513ee7513b0d2495e9339b0054df33df)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:23:44.837 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:23:44.861 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (513ee7513b0d2495e9339b0054df33df)] -> css selector: a.account-icon]
+2021-11-03 20:23:45.108 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:23:45.108 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:23:45.109 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:23:45.117 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:23:45.117 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 20:23:45.117 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:23:45.129 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:23:46.008 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:23:46.009 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:23:47.745 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:23:47.746 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:23:47.785 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (f16c2665db9a4dbf5cd07267a3881b64)] -> css selector: a.brand]
+2021-11-03 20:23:47.815 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:23:48.709 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (f16c2665db9a4dbf5cd07267a3881b64)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:23:48.745 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:23:48.834 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (f16c2665db9a4dbf5cd07267a3881b64)] -> css selector: a.account-icon]
+2021-11-03 20:23:50.150 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:23:50.150 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:23:50.150 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:23:50.163 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:23:50.163 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 20:23:50.163 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:23:50.174 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:23:51.083 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:23:51.083 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:23:54.371 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:23:54.373 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:23:54.408 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b72b357fae9d188fc20740fa0a886f74)] -> css selector: a.brand]
+2021-11-03 20:23:54.424 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:23:55.315 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b72b357fae9d188fc20740fa0a886f74)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:23:55.368 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:23:55.422 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (b72b357fae9d188fc20740fa0a886f74)] -> css selector: a.account-icon]
+2021-11-03 20:23:56.660 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:23:56.660 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:23:56.660 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:39:47.082 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:39:47.085 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 20:39:47.085 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:39:47.271 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:39:48.308 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:39:48.308 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:39:49.920 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:39:49.944 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:39:49.957 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (6c029e366fc458ec1a4bb312c2f7300f)] -> css selector: a.brand]
+2021-11-03 20:39:49.990 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:39:50.789 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (6c029e366fc458ec1a4bb312c2f7300f)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:39:50.876 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:39:50.908 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (6c029e366fc458ec1a4bb312c2f7300f)] -> css selector: a.account-icon]
+2021-11-03 20:39:51.066 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:39:51.066 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:39:51.066 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:39:51.077 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:39:51.077 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 20:39:51.077 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:39:51.089 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:39:51.834 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:39:51.834 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:39:52.909 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:39:52.910 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:39:53.056 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (8ef1cab5eabe8f2dff06226edf9da239)] -> css selector: a.brand]
+2021-11-03 20:39:53.349 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:39:53.982 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (8ef1cab5eabe8f2dff06226edf9da239)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:39:54.028 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:39:54.049 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (8ef1cab5eabe8f2dff06226edf9da239)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:39:54.117 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (8ef1cab5eabe8f2dff06226edf9da239)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:39:54.118 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:39:54.132 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (8ef1cab5eabe8f2dff06226edf9da239)] -> css selector: a.account-icon]
+2021-11-03 20:39:55.425 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (8ef1cab5eabe8f2dff06226edf9da239)] -> css selector: a.account-icon]
+2021-11-03 20:39:55.427 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:39:55.466 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (8ef1cab5eabe8f2dff06226edf9da239)] -> css selector: div.login-heading]
+2021-11-03 20:39:55.847 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:39:55.847 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:39:55.848 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:39:55.859 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:39:55.859 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 20:39:55.859 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:39:55.868 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:39:56.585 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:39:56.586 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:39:58.022 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:39:58.024 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:39:58.042 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (7aee9d75f8c0d8beae572173f5cc826a)] -> css selector: a.brand]
+2021-11-03 20:39:58.065 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:40:28.263 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:40:28.263 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:40:28.263 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:41:36.555 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:41:36.557 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 20:41:36.558 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:41:36.744 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:41:37.743 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:41:37.744 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:41:39.547 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:41:39.565 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:41:39.580 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (773fc971868b8de7d176b493ced037e2)] -> css selector: a.brand]
+2021-11-03 20:41:39.616 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:41:40.352 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (773fc971868b8de7d176b493ced037e2)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:41:40.452 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:41:40.473 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (773fc971868b8de7d176b493ced037e2)] -> css selector: a.account-icon]
+2021-11-03 20:41:40.642 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:41:40.642 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:41:40.643 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:41:40.650 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:41:40.650 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 20:41:40.650 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:41:40.659 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:41:41.412 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:41:41.413 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:41:43.370 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:41:43.371 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:41:43.396 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (4f4ac9dc214aae71f023277a7818201d)] -> css selector: a.brand]
+2021-11-03 20:41:43.412 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:41:44.347 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (4f4ac9dc214aae71f023277a7818201d)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:41:44.445 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:41:44.464 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (4f4ac9dc214aae71f023277a7818201d)] -> css selector: a.account-icon]
+2021-11-03 20:41:45.712 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:41:45.712 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:41:45.713 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:41:45.721 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:41:45.721 [main] INFO  StepDef.HomepageCoach -              Starting TC execution     
+2021-11-03 20:41:45.721 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:41:45.731 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:41:46.492 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:41:46.492 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:41:48.174 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:41:48.175 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:41:48.315 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (d85b94fc6ff98cb39b132c442dd782cd)] -> css selector: a.brand]
+2021-11-03 20:41:48.611 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:41:49.198 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (d85b94fc6ff98cb39b132c442dd782cd)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:41:49.274 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:41:49.288 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (d85b94fc6ff98cb39b132c442dd782cd)] -> css selector: a.account-icon]
+2021-11-03 20:41:54.599 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:41:54.599 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:41:54.599 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:47:04.486 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:47:04.488 [main] INFO  StepDef.HomepageCoach -              Starting Scenario
+2021-11-03 20:47:04.488 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:47:04.681 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:47:05.670 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:47:05.671 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:47:07.648 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:47:07.671 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:47:07.706 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (fa831eb57642d6121cc97a41e89671cf)] -> css selector: a.brand]
+2021-11-03 20:47:07.754 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:47:08.546 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (fa831eb57642d6121cc97a41e89671cf)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:47:08.602 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:47:08.617 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (fa831eb57642d6121cc97a41e89671cf)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:47:08.683 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (fa831eb57642d6121cc97a41e89671cf)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:47:08.684 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:47:08.697 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (fa831eb57642d6121cc97a41e89671cf)] -> css selector: a.account-icon]
+2021-11-03 20:47:08.876 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:47:08.877 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:47:08.877 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:47:08.888 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:47:08.888 [main] INFO  StepDef.HomepageCoach -              Starting Scenario
+2021-11-03 20:47:08.888 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:47:08.897 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:47:09.679 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:47:09.679 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:47:11.172 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:47:11.173 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:47:11.226 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (5043bac939f9b1541d26d0d560a52bbd)] -> css selector: a.brand]
+2021-11-03 20:47:11.248 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:47:12.020 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (5043bac939f9b1541d26d0d560a52bbd)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:47:12.070 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:47:12.082 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (5043bac939f9b1541d26d0d560a52bbd)] -> css selector: a.account-icon]
+2021-11-03 20:47:13.345 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:47:13.346 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:47:13.346 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:47:13.370 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:47:13.370 [main] INFO  StepDef.HomepageCoach -              Starting Scenario
+2021-11-03 20:47:13.370 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:47:13.384 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:47:14.146 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:47:14.147 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:47:15.648 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:47:15.649 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:47:15.675 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (eef4b3f876ea25935d3714abe9976285)] -> css selector: a.brand]
+2021-11-03 20:47:15.689 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:47:16.461 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (eef4b3f876ea25935d3714abe9976285)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:47:16.533 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:47:16.548 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (eef4b3f876ea25935d3714abe9976285)] -> css selector: a.account-icon]
+2021-11-03 20:47:17.787 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:47:17.787 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:47:17.787 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:50:00.825 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:50:00.827 [main] INFO  StepDef.HomepageCoach -              Starting interface io.cucumber.plugin.event.Node$Scenario
+2021-11-03 20:50:00.828 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:50:01.027 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:50:02.016 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:50:02.016 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:50:02.915 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:50:02.934 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:50:03.049 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (a782dd0fccdd46ecd8f5cf3cf1f04093)] -> css selector: a.brand]
+2021-11-03 20:50:03.359 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:50:03.924 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (a782dd0fccdd46ecd8f5cf3cf1f04093)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:50:04.034 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:50:04.050 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (a782dd0fccdd46ecd8f5cf3cf1f04093)] -> css selector: a.account-icon]
+2021-11-03 20:50:04.258 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:50:04.259 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:50:04.259 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:50:04.270 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:50:04.270 [main] INFO  StepDef.HomepageCoach -              Starting interface io.cucumber.plugin.event.Node$Scenario
+2021-11-03 20:50:04.270 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:50:04.278 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:50:05.009 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:50:05.009 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:50:06.519 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:50:06.520 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:50:06.546 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (f5d01875e298fe411a8d89508bc48da8)] -> css selector: a.brand]
+2021-11-03 20:50:06.603 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:50:07.384 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (f5d01875e298fe411a8d89508bc48da8)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:50:07.428 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:50:07.438 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (f5d01875e298fe411a8d89508bc48da8)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:50:07.523 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (f5d01875e298fe411a8d89508bc48da8)] -> xpath: //button[contains(text(),'no thanks, take me to the site')]]
+2021-11-03 20:50:07.524 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:50:07.538 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (f5d01875e298fe411a8d89508bc48da8)] -> css selector: a.account-icon]
+2021-11-03 20:50:08.930 [main] INFO  eventListeners.myEventListener - Clicked on -[[ChromeDriver: chrome on WINDOWS (f5d01875e298fe411a8d89508bc48da8)] -> css selector: a.account-icon]
+2021-11-03 20:50:08.933 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:50:08.958 [main] INFO  eventListeners.myEventListener - Found Element -[[ChromeDriver: chrome on WINDOWS (f5d01875e298fe411a8d89508bc48da8)] -> css selector: div.login-heading]
+2021-11-03 20:50:09.537 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:50:09.538 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:50:09.538 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:50:09.553 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:50:09.554 [main] INFO  StepDef.HomepageCoach -              Starting interface io.cucumber.plugin.event.Node$Scenario
+2021-11-03 20:50:09.554 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:50:09.565 [main] INFO  StepDef.HomepageCoach - Initializing Driver.........
+2021-11-03 20:50:10.321 [main] INFO  StepDef.HomepageCoach - Launching Coach home page
+2021-11-03 20:50:10.321 [main] INFO  eventListeners.myEventListener - Navigating to - https://www.coach.com/
+2021-11-03 20:50:11.006 [main] INFO  eventListeners.myEventListener - Navigated to - https://www.coach.com/
+2021-11-03 20:50:11.007 [main] INFO  eventListeners.myEventListener - Find Element -null
+2021-11-03 20:50:41.229 [main] INFO  StepDef.HomepageCoach - =============================================================
+2021-11-03 20:50:41.229 [main] INFO  StepDef.HomepageCoach -              End of TC execution     
+2021-11-03 20:50:41.229 [main] INFO  StepDef.HomepageCoach - =============================================================

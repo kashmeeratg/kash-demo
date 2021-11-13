@@ -1,0 +1,259 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-11-04T00:50:00.466Z",
+        "line": 5,
+        "name": "Validation of home page",
+        "description": "",
+        "id": "testing-coach-homepage;validation-of-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 190325500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDef.HomepageCoach.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2381977000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is on home page",
+            "match": {
+              "location": "StepDef.HomepageCoach.user_is_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1108601900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "validate if coach icon is displayed;",
+            "match": {
+              "location": "StepDef.HomepageCoach.validate_if_coach_icon_is_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 34977600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "validate if user button is displayed",
+            "match": {
+              "location": "StepDef.HomepageCoach.validate_if_user_button_is_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Ignore"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-11-04T00:50:04.268Z",
+        "line": 11,
+        "name": "Validattion of signin page",
+        "description": "",
+        "id": "testing-coach-homepage;validattion-of-signin-page",
+        "after": [
+          {
+            "result": {
+              "duration": 151812700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDef.HomepageCoach.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2250286300,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user is on home page",
+            "match": {
+              "location": "StepDef.HomepageCoach.user_is_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1003012100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "validate if coach icon is displayed;",
+            "match": {
+              "location": "StepDef.HomepageCoach.validate_if_coach_icon_is_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1407703200,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user clicks on user button",
+            "match": {
+              "location": "StepDef.HomepageCoach.user_clicks_on_user_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 453637900,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "validate signin page is displayed",
+            "match": {
+              "location": "StepDef.HomepageCoach.validate_signin_page_is_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Ignore"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-11-04T00:50:09.550Z",
+        "line": 28,
+        "name": "Validation of cutomer page",
+        "description": "",
+        "id": "testing-coach-homepage;validation-of-cutomer-page;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 134145600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDef.HomepageCoach.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1453541500,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user is on home page",
+            "match": {
+              "location": "StepDef.HomepageCoach.user_is_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a.brand\"}\n  (Session info: chrome\u003d95.0.4638.69)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-VUQTP0Q\u0027, ip: \u0027192.168.1.57\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002717.0.1\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.54 (d31a821ec901f..., userDataDir: C:\\Users\\arunb\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54302}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: b0b3a2e0951700f00e33c6b67cc14fef\n*** Element info: {Using\u003dcss selector, value\u003da.brand}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:420)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:568)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)\r\n\tat jdk.proxy2/jdk.proxy2.$Proxy32.findElement(Unknown Source)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat jdk.proxy2/jdk.proxy2.$Proxy35.isDisplayed(Unknown Source)\r\n\tat Pages.CoachHomepage.iconDisplayed(CoachHomepage.java:25)\r\n\tat StepDef.HomepageCoach.validate_if_coach_icon_is_displayed(HomepageCoach.java:59)\r\n\tat ✽.validate if coach icon is displayed;(file:///C:/Users/arunb/Documents/eclipse-workspace/maven-workspace/com.Newcoach/src/main/resources/FeatureFiles/coach.feature:20)\r\n",
+              "duration": 30077824400,
+              "status": "failed"
+            },
+            "line": 20,
+            "name": "validate if coach icon is displayed;",
+            "match": {
+              "location": "StepDef.HomepageCoach.validate_if_coach_icon_is_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1000200,
+              "status": "skipped"
+            },
+            "line": 21,
+            "name": "user clicks on user button",
+            "match": {
+              "location": "StepDef.HomepageCoach.user_clicks_on_user_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 22,
+            "name": "validate signin page is displayed",
+            "match": {
+              "location": "StepDef.HomepageCoach.validate_signin_page_is_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1000200,
+              "status": "skipped"
+            },
+            "line": 23,
+            "name": "user enter arunbabu79@gmail.com and Darsh@1979",
+            "match": {
+              "arguments": [
+                {
+                  "val": "arunbabu79@gmail.com",
+                  "offset": 11
+                },
+                {
+                  "val": "Darsh@1979",
+                  "offset": 36
+                }
+              ],
+              "location": "StepDef.HomepageCoach.user_enter_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 24,
+            "name": "validate user is on customer page",
+            "match": {
+              "location": "StepDef.HomepageCoach.validate_user_is_on_customer_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Testing Coach Homepage",
+    "description": "",
+    "id": "testing-coach-homepage",
+    "keyword": "Feature",
+    "uri": "file:src/main/resources/FeatureFiles/coach.feature",
+    "tags": []
+  }
+]
