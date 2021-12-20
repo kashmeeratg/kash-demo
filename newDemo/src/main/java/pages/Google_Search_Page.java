@@ -22,6 +22,7 @@ public class Google_Search_Page {
 	 
  }
  
+ //This is a method to press enter key
  public void pressEnter() {
 	 search.sendKeys(Keys.ENTER);
  }
