@@ -24,8 +24,10 @@ public class Google_Search_Page {
  
  //This is a method to press enter key test more
  public void pressEnter() {
+
 	 search.sendKeys(Keys.F6);
- }
+
+}
  
 	
 }
